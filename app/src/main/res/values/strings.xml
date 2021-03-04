@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AulaZeplin</string>
+
+    <string name="title">Material Design\nUI Kit Freebie</string>
+    <string name="subtitle">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="signup">SIGN UP</string>
+    <string name="login">LOG IN</string>
+</resources>
