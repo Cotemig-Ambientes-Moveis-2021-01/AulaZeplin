@@ -23,5 +23,5 @@ finish()
 ```
 ## Exportando no Zeplin
 ```
-app\src\main\res
+PastaDoAPP/app/src/main/res
 ```
