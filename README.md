@@ -14,3 +14,10 @@
 </shape>
 ```
 
+## Abrindo Activity
+
+```
+var intent = Intent(this, ProfileActivity::class.java)
+startActivity(intent)
+finish()
+```
