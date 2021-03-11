@@ -21,3 +21,7 @@ var intent = Intent(this, ProfileActivity::class.java)
 startActivity(intent)
 finish()
 ```
+## Exportando no Zeplin
+```
+app\src\main\res
+```
